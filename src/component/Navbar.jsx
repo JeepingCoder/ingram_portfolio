@@ -60,7 +60,7 @@ const Navbar = () => {
         className={
           !navi
             ? "hidden"
-            : "absolute top-0 left-0 w-full h-screen flex flex-col justify-center items-center bg-gray-500 bg-opacity-40"
+            : "absolute top-0 left-0 w-full h-screen flex flex-col justify-center items-center bg-gray-500 bg-opacity-90"
         }
       >
         <li>
