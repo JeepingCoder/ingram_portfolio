@@ -15,7 +15,8 @@
 }
 
 .ul{
-    display:inline-block;
+    display:grid;
+    max-height:screen;
   }
 
   .content-div{

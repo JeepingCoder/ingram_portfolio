@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div name="landingpage" className="w-full h-screen bg-[#3c1414]">
       {/* container */}
-      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center ">
+      <div className="max-w-[1000px] h-full mx-auto px-8 flex flex-col justify-center ">
         <img
           className="ml-auto rounded-full"
           src={face}

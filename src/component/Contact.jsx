@@ -36,7 +36,7 @@ const Contact = () => {
           </div>
 
           {/* Social Media Links */}
-          <div className="h-screen flex pt-40 justify-center">
+          <div className=" flex justify-center">
             <ul>
               <li className="w-[150px] h-[50px] flex justify-between items-center rounded-md ml-[-100px] bg-[#238636]">
                 <a
