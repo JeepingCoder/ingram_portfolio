@@ -12,11 +12,11 @@ const Applications = () => {
     <div className="max-w-[1100px] mx-auto p-2 flex flex-col justify-center w-full h-full">
       <div>
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-[#ad8f18]">
+          <p className="text-4xl text-gray-400 font-bold inline border-b-4 border-[#ad8f18]">
             Applications
           </p>
-          <p className="text-2xl py-2 ">
-            Check out some of my applications I've built
+          <p className="text-2xl pl-4 py-2 ">
+            Check out some of my applications I've built~
           </p>
         </div>
         {/* card */}
