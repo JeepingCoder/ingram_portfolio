@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bef6617.css",
+    "main.js": "/static/js/main.6b9956bd.js",
+    "static/media/GamersRealm.png": "/static/media/GamersRealm.f4bf18269f53e39382f8.png",
+    "static/media/Petcheck.png": "/static/media/Petcheck.e5fa1c16e30f8fde4262.png",
+    "static/media/Weatherapp.png": "/static/media/Weatherapp.abb6ddd5fe31b76d6a17.png",
+    "static/media/Face.png": "/static/media/Face.0dbe0254c6a0051c31a0.png",
+    "static/media/Passwordgen.png": "/static/media/Passwordgen.cb1740eb7e440c9e8186.png",
+    "static/media/CalenderApp.png": "/static/media/CalenderApp.c95029d28f924d2e9c9d.png",
+    "static/media/WalkPerson.png": "/static/media/WalkPerson.b14a7d4a1d0586209e34.png",
+    "static/media/Hannah.png": "/static/media/Hannah.143f7509ed1c62cb0ae4.png",
+    "index.html": "/index.html",
+    "main.9bef6617.css.map": "/static/css/main.9bef6617.css.map",
+    "main.6b9956bd.js.map": "/static/js/main.6b9956bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bef6617.css",
+    "static/js/main.6b9956bd.js"
+  ]
+}
