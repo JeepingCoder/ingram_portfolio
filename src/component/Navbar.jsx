@@ -24,7 +24,7 @@ const Navbar = () => {
       </div>
 
       <div>
-        <ul className="hidden md:flex">
+        <ul className="hidden md:flex ">
           <l1>
             <Link to="About" smooth={true} duration={500}>
               About
@@ -40,11 +40,7 @@ const Navbar = () => {
               Contact
             </Link>
           </li>
-          <li>
-            <Link to="contact" smooth={true} duration={500}>
-              Resume
-            </Link>
-          </li>
+          
         </ul>
       </div>
 
