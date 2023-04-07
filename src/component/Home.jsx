@@ -3,11 +3,11 @@ import face from "../assets/Face.png";
 
 const Home = () => {
   return (
-    <div name="landingpage" className="w-full h-screen bg-[#3c1414]">
+    <div name="landingpage" className="w-full h-screen  bg-[#3c1414]">
       {/* container */}
-      <div className="overflow-visible max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
+      <div className=" max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <img
-          className="ml-auto rounded-full"
+          className=" ml-auto rounded-full  "
           src={face}
           alt="face"
           style={{ width: "250px" }}

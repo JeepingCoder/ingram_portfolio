@@ -12,7 +12,7 @@ const Applications = () => {
     name="applications"
     className="w-full h-full bg-[#3c1414] text-gray-500"
   >
-    <div className="max-w-[1100px] mx-auto p-2 flex flex-col justify-center w-full  ">
+    <div className="max-w-[1100px] mx-auto p-40 flex flex-col justify-center w-full  ">
       <div>
         <div className="pb-8">
           <p className="text-4xl text-gray-400 font-bold inline border-b-4 border-[#ad8f18]">
