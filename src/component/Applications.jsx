@@ -10,7 +10,7 @@ const Applications = () => {
   return (
     <div
     name="applications"
-    className="w-full md:h-screen bg-[#3c1414] text-gray-500"
+    className="w-full h-full bg-[#3c1414] text-gray-500"
   >
     <div className="max-w-[1100px] mx-auto p-2 flex flex-col justify-center w-full  ">
       <div>
