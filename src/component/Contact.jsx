@@ -22,7 +22,7 @@ const Contact = () => {
           {/* Social Media Links */}
           <div className="h-screen flex pt-40 justify-center">
             <ul>
-              <li className="w-[150px] h-[50px] flex justify-between items-center rounded-md ml-[-100px] hover:ml-[-10px] duration-600 bg-[#238636]">
+              <li className="w-[150px] h-[50px] flex justify-between items-center rounded-md ml-[-100px] bg-[#238636]">
                 <a
                   className="flex justify-between items-center w-full text-white"
                   href="https://github.com/JeepingCoder"
@@ -30,7 +30,7 @@ const Contact = () => {
                   Github <FaGithub size={25} />
                 </a>
               </li>
-              <li className="w-[150px] h-[50px] flex justify-between items-center rounded-md ml-[-100px] hover:ml-[-10px] duration-600 bg-[#0a66c2]">
+              <li className="w-[150px] h-[50px] flex justify-between items-center rounded-md ml-[-100px]  bg-[#0a66c2]">
                 <a
                   className="flex justify-between items-center w-full text-white"
                   href="https://www.linkedin.com/in/ingrampr/"
@@ -38,7 +38,7 @@ const Contact = () => {
                   Linkedin <FaLinkedin size={25} />
                 </a>
               </li>
-              <li className="w-[150px] h-[50px] flex justify-between items-center rounded-md ml-[-100px] hover:ml-[-10px] duration-600 bg-[#1d98f0]">
+              <li className="w-[150px] h-[50px] flex justify-between items-center rounded-md ml-[-100px] bg-[#1d98f0]">
                 <a
                   className="flex justify-between items-center w-full text-white"
                   href="https://twitter.com/pingram1285"
@@ -46,7 +46,7 @@ const Contact = () => {
                   Twitter <FaTwitter size={25} />
                 </a>
               </li>
-              <li className="w-[150px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-600 bg-[#555d50] rounded-md">
+              <li className="w-[150px] h-[50px] flex justify-between items-center ml-[-100px] bg-[#555d50] rounded-md">
                 <a
                   className="flex justify-between items-center w-full text-white"
                   href="https://docs.google.com/document/d/1zMz9srtNIIRJgsFK5hhEM6UgaSL1hLqErHv5eOR_8OI/edit?usp=sharing"
