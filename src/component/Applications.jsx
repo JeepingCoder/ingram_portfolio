@@ -1,8 +1,10 @@
 import React from "react";
-import PreTrip from "../assets/PreTrip.png";
+import Passwordgen from "../assets/Passwordgen.png";
 import WalkPerson from "../assets/WalkPerson.png";
 import PetCheck from "../assets/Petcheck.png";
 import GamersRealm from "../assets/GamersRealm.png"
+import Weatherapp from "../assets/Weatherapp.png"
+import CalenderApp from "../assets/CalenderApp.png"
 
 const Applications = () => {
   return (
@@ -24,15 +26,15 @@ const Applications = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
           {/* Grid */}
           <div
-            style={{ backgroundImage: `url(${PreTrip})` }}
+            style={{ backgroundImage: `url(${Passwordgen})` }}
             className=" group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             <div>
               
               <div>
-              <a href="https://github.com/JeepingCoder/pre-trip-plus" class="relative inline-flex items-center justify-start px-5 py-3 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
+              <a href="https://jeepingcoder.github.io/MySecurePassword-/" class="relative inline-flex items-center justify-start px-5 py-3 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
 <span class="absolute inset-0 border-0 group-hover:border-[25px] ease-linear duration-100 transition-all border-white rounded-full"></span>
-<span class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-blue-600">Pretrip Plus</span>
+<span class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-blue-600">Password Generator</span>
 </a>
 
                 
@@ -81,6 +83,38 @@ const Applications = () => {
               <a href="https://gamersrealm.herokuapp.com/" class="relative inline-flex items-center justify-start px-5 py-3 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
 <span class="absolute inset-0 border-0 group-hover:border-[25px] ease-linear duration-100 transition-all border-white rounded-full"></span>
 <span class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-blue-600">Gamer's Realm </span>
+</a>
+
+                
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Weatherapp})` }}
+            className=" group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div>
+              
+              <div>
+              <a href="https://jeepingcoder.github.io/weather-app2/" class="relative inline-flex items-center justify-start px-5 py-3 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
+<span class="absolute inset-0 border-0 group-hover:border-[25px] ease-linear duration-100 transition-all border-white rounded-full"></span>
+<span class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-blue-600">Weather App </span>
+</a>
+
+                
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${CalenderApp})` }}
+            className=" group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div>
+              
+              <div>
+              <a href="https://jeepingcoder.github.io/calender-app/" class="relative inline-flex items-center justify-start px-5 py-3 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
+<span class="absolute inset-0 border-0 group-hover:border-[25px] ease-linear duration-100 transition-all border-white rounded-full"></span>
+<span class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-blue-600">Calender App</span>
 </a>
 
                 
