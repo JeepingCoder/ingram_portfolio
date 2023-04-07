@@ -17,6 +17,16 @@ const Contact = () => {
             <p className="text-4xl font-bold inline border-b-4 border-[#ad8f18]">
               Contact
             </p>
+            <form method="post" action="https://getform.io/f/954c3c53-a1ec-43ee-ad21-2da1e3bceb76" className="flex flex-col max-w-[600px] w-full">
+              <div>
+                <p className="text-gray-500 text-2xl py-4">Submit the following form:</p>
+              </div>
+              <input className=" p-2 bg-[#ad8f18] " type="text" placeholder="Name" name="name"/>
+              <input className="my-4 p-2 bg-[#ad8f18]" type="email" placeholder="Email" name="email"/>
+              <textarea className="p-2 bg-[#ad8f18] " name="message" rows="5" placeholder="Message"></textarea>
+              <button className="text-2xl">Submit </button>
+              
+            </form>
           </div>
 
           {/* Social Media Links */}

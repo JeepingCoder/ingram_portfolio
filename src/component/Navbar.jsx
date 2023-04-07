@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="z-50 fixed w-full h-[150px] flex justify-between items-center px-4 bg-[#333333] text-[#AD8F18] text-2xl ">
       <div>
-        <a href="../components/home.jsx">
+        <a href="../components/Home.jsx">
         <img
           className="rounded-full"
           src={Hannah}
