@@ -12,7 +12,7 @@ const Home = () => {
           alt="face"
           style={{ width: "200px" }}
         />
-        <p className="text-lg text-gray-500">Hello, My Name Is</p>
+        <p className="text-2xl text-gray-500">Hello, My Name Is~</p>
         <h1 className="text-3xl sm:text-7xl font-bold text-[#ad8f18]">
           Patrick Ingram
         </h1>
