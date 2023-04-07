@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ingram_portfolio/static/css/main.9bef6617.css",
-    "main.js": "/ingram_portfolio/static/js/main.f486e247.js",
+    "main.css": "/ingram_portfolio/static/css/main.850f6baa.css",
+    "main.js": "/ingram_portfolio/static/js/main.05ab17e1.js",
     "static/media/GamersRealm.png": "/ingram_portfolio/static/media/GamersRealm.f4bf18269f53e39382f8.png",
     "static/media/Petcheck.png": "/ingram_portfolio/static/media/Petcheck.e5fa1c16e30f8fde4262.png",
     "static/media/Weatherapp.png": "/ingram_portfolio/static/media/Weatherapp.abb6ddd5fe31b76d6a17.png",
@@ -11,11 +11,11 @@
     "static/media/WalkPerson.png": "/ingram_portfolio/static/media/WalkPerson.b14a7d4a1d0586209e34.png",
     "static/media/Hannah.png": "/ingram_portfolio/static/media/Hannah.143f7509ed1c62cb0ae4.png",
     "index.html": "/ingram_portfolio/index.html",
-    "main.9bef6617.css.map": "/ingram_portfolio/static/css/main.9bef6617.css.map",
-    "main.f486e247.js.map": "/ingram_portfolio/static/js/main.f486e247.js.map"
+    "main.850f6baa.css.map": "/ingram_portfolio/static/css/main.850f6baa.css.map",
+    "main.05ab17e1.js.map": "/ingram_portfolio/static/js/main.05ab17e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bef6617.css",
-    "static/js/main.f486e247.js"
+    "static/css/main.850f6baa.css",
+    "static/js/main.05ab17e1.js"
   ]
 }
