@@ -2,8 +2,8 @@ import React from "react";
 
 const About = () => {
   return (
-    <div name="about" className="w-full h-screen bg-[#3c1414] text-gray-500">
-      <div className="flex flex-col justify-center items-center w-full h-full">
+    <div name="about" className="w-full h-full bg-[#3c1414] text-gray-500">
+      <div className="flex flex-col justify-center items-center w-full h-full pt-20">
         <div>
           <div className="end-0 sm-text-right pb-8 pl-4">
             <p className="text-4xl text-gray-400 font-bold inline border-b-4 border-[#ad8f18]">
