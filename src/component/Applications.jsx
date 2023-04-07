@@ -2,6 +2,7 @@ import React from "react";
 import PreTrip from "../assets/PreTrip.png";
 import WalkPerson from "../assets/WalkPerson.png";
 import PetCheck from "../assets/Petcheck.png";
+import GamersRealm from "../assets/GamersRealm.png"
 
 const Applications = () => {
   return (
@@ -64,6 +65,22 @@ const Applications = () => {
               <a href="https://polar-springs-69420.herokuapp.com/" class="relative inline-flex items-center justify-start  px-5 py-3 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
 <span class="absolute inset-0 border-0 group-hover:border-[25px] ease-linear duration-100 transition-all border-white rounded-full"></span>
 <span class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-blue-600">Pet Check Plus</span>
+</a>
+
+                
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${GamersRealm})` }}
+            className=" group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div>
+              
+              <div>
+              <a href="https://gamersrealm.herokuapp.com/" class="relative inline-flex items-center justify-start px-5 py-3 overflow-hidden font-medium transition-all bg-blue-600 rounded-full hover:bg-white group">
+<span class="absolute inset-0 border-0 group-hover:border-[25px] ease-linear duration-100 transition-all border-white rounded-full"></span>
+<span class="relative w-full text-left text-white transition-colors duration-200 ease-in-out group-hover:text-blue-600">Gamer's Realm </span>
 </a>
 
                 
